@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="vintage_bicycle">VINTAGE BICYCLE</string>
+    <string name="color_text">COLOR</string>
+    <string name="size_s">S</string>
+    <string name="size_m">M</string>
+    <string name="size_l">L</string>
+    <string name="size_xl">XL</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="paragraph1">Custom lightweight steel frame. Unrestored in beatuiful original condition. Lightly used and well kept. Full super record build.</string>
+    <string name="measurement">MEASUREMENT</string>
+    <string name="paragraph2">The frame size of the bike must be right for you, otherwise cycling can become hard work and uncomfortable. If you’re too cramped you won’t be able to extend your leg into a full cycle to maximize power. Alternatively if the frame is too big you will get not get a full drive from your leg rotation either. A quick way to check the frame size is to stand over the frame with both feet on the ground. If you have an inch or so between the frame of a racing, touring or hybrid bike and your crotch it should be about right. For a mountain bike the distance to the frame should be greater. For children the best way to ensure the frame is the correct size is to have the child sit on the seat and be able to place the balls of their feet on the ground and reach the handlebars comfortably.</string>
+    <string name="button_cart">ADD TO CART</string>
+    <string name="button_added">ADDED TO CART</string>
+    <string name="toast_added">Added to cart</string>
+    <string name="already_added">Item is already in cart</string>
+    <string name="toastLikes"> likes to Vintage Bicycle</string>
+
+</resources>

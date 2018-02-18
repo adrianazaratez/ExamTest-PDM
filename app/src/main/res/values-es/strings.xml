@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prueba de Examen</string>
+    <string name="vintage_bicycle">Bicicleta Antigua</string>
+    <string name="color_text">COLOR</string>
+    <string name="size_s">CH</string>
+    <string name="size_m">M</string>
+    <string name="size_l">G</string>
+    <string name="size_xl">XG</string>
+    <string name="description">DESCRIPCIÓN</string>
+    <string name="paragraph1">Bastidor de acero ligero personalizado. Sin restaurar en hermosa condición original. Ligeramente usado y bien cuidado. Completa creación de súper registro.</string>
+    <string name="measurement">MEDIDA</string>
+    <string name="paragraph2">El tamaño del cuadro de la bicicleta debe ser el adecuado para usted, de lo contrario el ciclismo puede convertirse en un trabajo duro e incómodo. Si estás demasiado apretado no podrás extender la pierna en un ciclo completo para maximizar la potencia. Alternativamente, si el marco es demasiado grande, tampoco obtendrá un impulso total de la rotación de la pierna. Una forma rápida de verificar el tamaño del marco es pararse sobre el marco con ambos pies en el suelo. Si tiene una pulgada más o menos entre el marco de una bicicleta de carreras, gira o híbrida y su entrepierna, debería ser lo correcto. Para una bicicleta de montaña, la distancia al cuadro debe ser mayor. Para los niños, la mejor manera de asegurarse de que el armazón sea del tamaño correcto es que el niño se siente en el asiento y pueda colocar las puntas de los pies en el piso y llegar al manubrio cómodamente.</string>
+    <string name="button_cart">AÑADIR AL CARRITO</string>
+    <string name="button_added">AÑADIDO AL CARRITO</string>
+    <string name="already_added">El objeto ya está en el carrito</string>
+    <string name="toastLikes"> me gusta para Bicicleta Antigua</string>
+
+</resources>

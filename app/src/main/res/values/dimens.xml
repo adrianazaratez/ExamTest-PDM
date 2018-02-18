@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="like_button_height">5dp</dimen>
+    <dimen name="like_button_width">5dp</dimen>
+    <dimen name="padding_components">10dp</dimen>
+    <dimen name="button_width">46dp</dimen>
+    <dimen name="image_button">40dp</dimen>
+    <dimen name="textsize">26dp</dimen>
+    <dimen name="imageView">370dp</dimen>
+</resources>
